@@ -1,0 +1,22 @@
+{
+  "name": "skribblio-helper",
+  "version": "1.0.0",
+  "description": "A Discord Bot to help organize/guide players to appropriate private rooms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgoldbe4/SkribblioHelper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgoldbe4/SkribblioHelper/issues"
+  },
+  "homepage": "https://github.com/rgoldbe4/SkribblioHelper#readme",
+  "dependencies": {
+    "eris": "^0.11.2"
+  }
+}

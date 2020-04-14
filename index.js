@@ -1,6 +1,6 @@
 const Eris = require("eris");
 
-var bot = new Eris("NjkwMzE2Mjk5Njc0NDUyMDE4.XnPppQ.h_BSeq9fySVMW-16eFgt-5Ywt84");
+var bot = new Eris("");
 // Replace BOT_TOKEN with your bot account's token
 
 var roomStatus = [];
